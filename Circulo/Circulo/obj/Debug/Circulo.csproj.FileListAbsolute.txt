@@ -1,0 +1,7 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\bin\Debug\Circulo.exe.config
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\bin\Debug\Circulo.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\bin\Debug\Circulo.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\obj\Debug\Circulo.csproj.AssemblyReference.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\obj\Debug\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\obj\Debug\Circulo.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Circulo\Circulo\obj\Debug\Circulo.pdb
