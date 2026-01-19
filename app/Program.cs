@@ -105,3 +105,95 @@ switch (color)
     Console.WriteLine("Advertncia");
     break;
 }
+
+//funciones
+
+//sumar
+int sumar(int primero, int segundo)
+{
+    return primero + segundo;
+}
+
+int resultado = sumar(3, 4);
+Console.WriteLine(resultado);
+
+//multiplicar
+void multiplicar(int primero, int segundo)
+{
+    Console.WriteLine(primero * segundo); 
+}
+
+ multiplicar(entero, 2);
+
+// para imprimir elementos de una lista
+void imprimirPrimerElemento(string[] lista)
+{
+    Console.WriteLine(lista[0]);
+}
+
+imprimirPrimerElemento(animales);
+
+// funciones mas complejas (algotitmo de ordenamiento quicksort)
+
+List<int> quicksort(List<int> lista)
+{
+    if (lista.Count <= 1)
+    {
+        return lista;
+    }
+    
+    int pivote = lista[0];
+    List<int> izquierda = new List<int>();
+    lista<int> derecha = new List<int>();
+    for (int i = 1; i < lista.Count; i++)
+    {
+        if (lista[i] < pivote)
+        {
+            izquierda.Add(lista[i]);
+        }
+        else
+        {
+            derecha.Add(lista[i]);
+
+        }
+    }
+    List<int> primero = quicksort(izquierda);
+    List<int> medio = new List<int> { pivote };
+    List<int> segundo = quicksort(izquierda);
+    primero.AddRange(medio);
+    primero.AddRange(segundo);
+    return primero;
+    
+};
+
+// Bucles en c#
+
+string[] animales = {"perro", "gato", "tigre"};
+
+foreach( string animal in animales)
+{
+    Console.WriteLine(animal);
+
+}
+
+// ejemplo de un bucle que multiplica una lista  x2
+void multiplicar(int primero, int segundo)
+{
+    Console.WritLine(primero * segundo);
+}
+
+int numeros = {23, 45, 16, 37, 3, 99, 22};
+foreach (int numero in numeros)
+{
+    multicplicar(numero * 2);
+}
+
+int entero = 100;
+iknt emergencia = 911;
+
+while (entero <= emergencia)
+{
+    Console.WriteLine(entero);
+    entero++;
+}
+
