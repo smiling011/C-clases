@@ -1,0 +1,6 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\bin\Debug\Entidades.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\bin\Debug\Entidades.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\obj\Debug\Entidades.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\obj\Debug\Entidades.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

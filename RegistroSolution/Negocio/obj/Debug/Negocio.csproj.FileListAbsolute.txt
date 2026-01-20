@@ -1,0 +1,11 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Negocio.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Negocio.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Datos.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Entidades.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Datos.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\bin\Debug\Entidades.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\obj\Debug\Negocio.dll
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\RegistroSolution\Negocio\obj\Debug\Negocio.pdb
