@@ -14,9 +14,21 @@ namespace ConsoleApp1
             Console.WriteLine("Hello, World!");
 
             //programa para calcular el area de un rectangulo
-            int ladoA;
-            int ladoB;
-            int resultado;
+
+            //declaracion de variables dos tipos de declarar:
+
+            //tipo implicito
+
+            var ladoA = 1.1;
+            var ladoB = 1.1;
+            var resultado = 1.1;
+
+
+            //declaracion sin valor inicial
+
+            //int ladoA;
+            //int ladoB;
+            //int resultado;
 
             Console.WriteLine("Calcula  el area de un rectangulo");
             Console.WriteLine("Ingrese el valero del lado A");
@@ -26,7 +38,7 @@ namespace ConsoleApp1
             ladoB = Convert.ToInt32(Console.ReadLine());
 
             resultado = ladoA * ladoB;
-            Console.WriteLine(resultado);
+            Console.WriteLine("El lado a es: " +ladoA + " El lado B es: "+ladoB + " El resultados es : " +resultado);
 
 
 

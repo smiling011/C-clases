@@ -30,6 +30,7 @@ namespace Circulo
             //imprime el resultado
             Console.WriteLine("El area de tu circulo es de: "+resultado);
 
+            // para tener la consola activa
             Console.ReadKey();
         }
     }
