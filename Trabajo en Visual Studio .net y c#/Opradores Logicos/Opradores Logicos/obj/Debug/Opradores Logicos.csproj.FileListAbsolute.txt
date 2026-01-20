@@ -1,0 +1,7 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\bin\Debug\Opradores Logicos.exe.config
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\bin\Debug\Opradores Logicos.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\bin\Debug\Opradores Logicos.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\obj\Debug\Opradores Logicos.csproj.AssemblyReference.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\obj\Debug\Opradores Logicos.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\obj\Debug\Opradores Logicos.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Opradores Logicos\Opradores Logicos\obj\Debug\Opradores Logicos.pdb
